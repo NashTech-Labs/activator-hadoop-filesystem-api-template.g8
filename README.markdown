@@ -1,6 +1,7 @@
-# Activator-Hadoop-Filesystem-Api
+A [Giter8][g8] template to demonstrate how you can read and write files to/from hadoop to/from your system.
 
-This is an activator template that is designed to demonstrate how you can read and write files to/from hadoop to/from your system.
+About
+-----
 
 ## Steps to run this Project
 
@@ -30,3 +31,13 @@ bin/activator "run-main com.knoldus.Launcher"
 ```
 
 For any issue please raise a ticket @ [Github Issue](https://github.com/SangeetaGulia/activator-hadoop-filesystem-api/issues)
+
+Template license
+----------------
+Written in 2017 by Knoldus Software LLP
+
+To the extent possible under law, the author(s) have dedicated all copyright and related
+and neighboring rights to this template to the public domain worldwide.
+This template is distributed without any warranty. See <http://creativecommons.org/publicdomain/zero/1.0/>.
+
+[g8]: http://www.foundweekends.org/giter8/
